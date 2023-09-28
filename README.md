@@ -7,3 +7,6 @@ Med_ETH tackles a multitude of problem by incorporating the Web3 element. By usi
 Suppose you want to disclose sensitive data without actually disclosing it? This is where zk-SNARKs come in, a novel technology that we are experimenting on (future scope) where patients can prove to the doctor that they have so-and-so problems without revealing the diagnosis of the problems itself.
 
 In the near future, if we are successful we plan to shift Med_ETH to its own blockchain platform (eg: MedChain) using HyperLedger Fabric, which offers proprietary blockchain services.
+
+# [Devfolio Link](https://devfolio.co/projects/medeth-f8f2)
+# [Youtube Link](https://youtu.be/IddLKWBVMLw)
